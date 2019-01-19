@@ -1,0 +1,15 @@
+current directory: /Users/ishikawatsubasa/Fjord/rails/onsento/vendor/bundle/ruby/2.5.0/gems/bindex-0.5.0/ext/bindex
+/Users/ishikawatsubasa/.rbenv/versions/2.5.1/bin/ruby -I /Users/ishikawatsubasa/.rbenv/versions/2.5.1/lib/ruby/site_ruby/2.5.0 -r ./siteconf20190119-56847-tfavla.rb extconf.rb
+creating Makefile
+
+current directory: /Users/ishikawatsubasa/Fjord/rails/onsento/vendor/bundle/ruby/2.5.0/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" clean
+
+current directory: /Users/ishikawatsubasa/Fjord/rails/onsento/vendor/bundle/ruby/2.5.0/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR="
+compiling cruby.c
+linking shared-object bindex/cruby.bundle
+
+current directory: /Users/ishikawatsubasa/Fjord/rails/onsento/vendor/bundle/ruby/2.5.0/gems/bindex-0.5.0/ext/bindex
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20190119-56847-1xhz228/bindex

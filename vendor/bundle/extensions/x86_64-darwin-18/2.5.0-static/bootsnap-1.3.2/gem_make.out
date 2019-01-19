@@ -1,0 +1,15 @@
+current directory: /Users/ishikawatsubasa/Fjord/rails/onsento/vendor/bundle/gems/bootsnap-1.3.2/ext/bootsnap
+/Users/ishikawatsubasa/.rbenv/versions/2.5.1/bin/ruby -I /Users/ishikawatsubasa/.rbenv/versions/2.5.1/lib/ruby/site_ruby/2.5.0 -r ./siteconf20190119-39203-19lrugv.rb extconf.rb
+creating Makefile
+
+current directory: /Users/ishikawatsubasa/Fjord/rails/onsento/vendor/bundle/gems/bootsnap-1.3.2/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /Users/ishikawatsubasa/Fjord/rails/onsento/vendor/bundle/gems/bootsnap-1.3.2/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+
+current directory: /Users/ishikawatsubasa/Fjord/rails/onsento/vendor/bundle/gems/bootsnap-1.3.2/ext/bootsnap
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20190119-39203-1vfce5z/bootsnap

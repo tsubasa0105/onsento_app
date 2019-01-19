@@ -1,0 +1,15 @@
+current directory: /Users/ishikawatsubasa/Fjord/rails/onsento/vendor/bundle/gems/websocket-driver-0.7.0/ext/websocket-driver
+/Users/ishikawatsubasa/.rbenv/versions/2.5.1/bin/ruby -I /Users/ishikawatsubasa/.rbenv/versions/2.5.1/lib/ruby/site_ruby/2.5.0 -r ./siteconf20190119-39203-ynx0kf.rb extconf.rb
+creating Makefile
+
+current directory: /Users/ishikawatsubasa/Fjord/rails/onsento/vendor/bundle/gems/websocket-driver-0.7.0/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: /Users/ishikawatsubasa/Fjord/rails/onsento/vendor/bundle/gems/websocket-driver-0.7.0/ext/websocket-driver
+make "DESTDIR="
+compiling websocket_mask.c
+linking shared-object websocket_mask.bundle
+
+current directory: /Users/ishikawatsubasa/Fjord/rails/onsento/vendor/bundle/gems/websocket-driver-0.7.0/ext/websocket-driver
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 websocket_mask.bundle ./.gem.20190119-39203-jzcj0c
