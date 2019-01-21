@@ -1,0 +1,14 @@
+<p>
+<% if @zaiko > 0 %>
+残り <%= @zaiko %>個です。
+<% else %>
+品切れです。
+<% end %>
+</p>
+<p>
+<% unless @zaiko == 0 %>
+残り <%= @zaiko %>個です。
+<% else %>
+品切れです。
+<% end %>
+</p>
